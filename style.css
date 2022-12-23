@@ -1,6 +1,6 @@
 * { margin: 0; padding: 0; text-decoration: none; }
-body { font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 100%;
-background-image: linear-gradient(to bottom, #fb0, #fff); }
+body { font-family: Verdana, Geneva, Tahoma, sans-serif; }
+#interface { margin: auto; background-image: linear-gradient(to bottom, #fb0, #fff); width: 50%; }
 header { background-color: #fb0; padding: 20px; }
 h1 { font-family: Arial, Helvetica, sans-serif; padding: 5px; }
 h4 { margin-left: 250px; padding: 5px; }
@@ -26,7 +26,7 @@ ul#album-fotos li {
     border: 3px solid #fff;
     background-color: #fff;
     box-shadow: 1px 1px 3px rgba(0, 0, 0, .4);
-   /*  -webkit-transition: all 1s ease-in; */
+    -webkit-transition: all 1s ease-in;
 }
 
 ul#album-fotos li span {
@@ -40,16 +40,16 @@ ul#album-fotos li span {
     padding: 5px;
 }
 
-/* ul#album-fotos li:hover {
+ul#album-fotos li:hover {
     -webkit-transform: scale(1.5); 
-} */
+}
 
 ul#album-fotos li:hover span {
     opacity: 1;
 }
 
 ul#album-fotos li {
-    /* background-position: 60% 60%; */
+    background-position: 60% 60%;
     background-size: 400px;
     background-color: #fff;
 }
