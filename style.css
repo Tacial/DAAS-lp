@@ -25,7 +25,6 @@ ul#album-fotos li#foto03 { background: url('telhado.jpg') no-repeat; }
 ul#album-fotos li#foto04 { background: url('fundacao.jpg') no-repeat; }
 ul#album-fotos li#foto05 { background: url('escada.jpg') no-repeat; }
 ul#album-fotos li#foto06 { background: url('pintura.jpg') no-repeat; }
-
 /* Contatos */
 ul#contatos { width: 800px; margin: 0 auto; padding: 60px; overflow: hidden; list-style: none; }
 
