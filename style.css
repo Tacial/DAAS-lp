@@ -1,6 +1,6 @@
 * { margin: 0; padding: 0; text-decoration: none; }
-body { width: 1600px; font-family: Verdana, Geneva, Tahoma, sans-serif; }
-#interface { width: 1600px; margin: auto; background-image: linear-gradient(to bottom, #fb0, #fff); width: 50%; }
+body { width: 2600px; font-family: Verdana, Geneva, Tahoma, sans-serif; }
+#interface { width: 1600px; margin: auto; background-image: linear-gradient(to bottom, #fb0, #fff); }
 header { background-color: #fb0; padding: 20px; }
 h1 { font-family: Arial, Helvetica, sans-serif; padding: 5px; }
 h4 { margin-left: 250px; padding: 5px; }
