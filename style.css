@@ -8,7 +8,7 @@ section { padding: 55px; }
 
 /* jobs */
 ul#jobs { padding: 5px; margin-left: 50px; }
-li.img {height: 200px; width: 200px; }
+li>img {height: 200px; width: 200px; }
 /* Galeria
 ul#album-fotos { width: 600px; margin: 0 auto; padding: 60px; overflow: hidden; list-style: none; }
 ul#album-fotos li { float: left; width: 200px; height: 200px; margin: 10px; background-color: #fff; 
