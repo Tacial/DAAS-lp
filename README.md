@@ -5,9 +5,9 @@ Neste projeto, desenvolvemos uma landing page com o objetivo de treinar e consol
 Divulgação de serviços diversos
 
 ## Tecnologias Utilizadas
-[!vs_code]
-[!HTML5]
-[!CSS3]
+<ul><li>vs_code</li>
+    <li>HTML5</li>
+    <li>CSS3</li></ul>
 
 ## Acesso
 https://tacial.github.io/DAAS-lp/
