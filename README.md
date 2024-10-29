@@ -1,5 +1,6 @@
 # Sobre o Projeto
-Neste projeto, desenvolvemos uma landing page com o objetivo de treinar e consolidar conhecimentos em HTML e CSS.
+Neste projeto, desenvolvemos uma landing page para divulgação de serviço, <br>
+com o objetivo de treinar e consolidar conhecimentos em HTML e CSS.
 
 ## 'Do Alicerce Ao Acabamento' [DAAS]
 Divulgação de serviços diversos
